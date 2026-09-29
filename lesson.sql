@@ -1,6 +1,6 @@
 /*
 Example lesson stub
-Made a change here
+Made a change
 */
 
 SELECT
